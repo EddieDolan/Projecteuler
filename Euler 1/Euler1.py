@@ -8,7 +8,8 @@ def euler1(num_max):
             temp_list.append(x)
         elif x%3==0:
             temp_list.append(x)
-    return sum(temp_list)
+    y = sum(temp_list)
+    return y
 
 print euler1(100)
 
