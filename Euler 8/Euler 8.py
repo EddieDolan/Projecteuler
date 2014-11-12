@@ -6,4 +6,4 @@ for x in range(3):
         y = 1
 #        for num.find(x)*y in
 
-
+#qwer
